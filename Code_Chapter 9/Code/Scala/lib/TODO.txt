@@ -1,0 +1,5 @@
+Please copy the spark-streaming-kafka-0-8_2.11-2.0.0.jar file into this directory. This is the co-ordinate for getting the jar file. 
+"org.apache.spark" % "spark-streaming-kafka-0-8_2.11" % "2.0.0"
+
+The following download link can be used to get the JAR file. 
+http://search.maven.org/remotecontent?filepath=org/apache/spark/spark-streaming-kafka-0-8_2.11/2.0.0/spark-streaming-kafka-0-8_2.11-2.0.0.jar

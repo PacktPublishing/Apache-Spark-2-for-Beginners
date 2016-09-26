@@ -1,0 +1,2 @@
+The code can be compiled run from IPython notebook by opening the note book file. 
+The .py files are just the export from the IPython notebook. If this has to be run as an application, appropriate print statements have to be given or the standard output settings have to be done to make sure that all the values are seen in the STDOUT
