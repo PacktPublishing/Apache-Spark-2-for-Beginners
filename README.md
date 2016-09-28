@@ -1,15 +1,8 @@
 # Apache-Spark-2-for-Beginners
 Code Bundle
 
-
-
-
-
-
-| Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | Hardware specifications | OS required |
-
- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-
+| Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | OS required |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
 
 ## Detailed installation steps (software-wise)
