@@ -11,7 +11,7 @@ Code Bundle
 The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
 ###1. Apache Spark:
 a. Download Spark version mentioned in the table<br>
-b. Build Spark from source or use the binary download and follow the detailed instructions given in the page<br> http://spark.apache.org/docs/latest/building-spark.html
+b. Build Spark from source or use the binary download and follow the detailed instructions given in the page http://spark.apache.org/docs/latest/building-spark.html<br>
 c. If building Spark from source, make sure that the R profile is also built and the instructions to do that is given in the link given inthe step b.<br>
 ###2. Apache Kafka
 a. Download Kafka version mentioned in the table<br>
