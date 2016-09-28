@@ -3,6 +3,8 @@ Code Bundle
 
 | Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | Hardware specifications | OS required |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| All | Apache Spark 2.0.0 | Free | NA | NA | http://spark.apache.org/downloads.html | X86 | UNIX or MacOSX |
+| 6 | Apache Kafka 0.9.0.0 | Free | NA | NA | http://www.sublimetext.com/3 | X86 | UNIX or MacOSX |
 
 
 ## Detailed installation steps (software-wise)
