@@ -3,7 +3,7 @@ This is the code repository for [Apache Spark 2 for Beginners](https://www.packt
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
+## Software and Hardware List
 | Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | Hardware specifications | OS required |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | All | Apache Spark 2.0.0 | Free | NA | NA | http://spark.apache.org/downloads.html | X86 | UNIX or MacOSX |
