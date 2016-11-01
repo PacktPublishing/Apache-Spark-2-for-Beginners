@@ -3,7 +3,7 @@ This is the code repository for [Apache Spark 2 for Beginners](https://www.packt
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-Code Bundle
+##Code Bundle
 
 | Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | Hardware specifications | OS required |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
