@@ -3,6 +3,25 @@ This is the code repository for [Apache Spark 2 for Beginners](https://www.packt
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
+Code Bundle
+
+| Chapter number | Software required (with version) | Free/Proprietary | If proprietary, can code testing be performed using a trial version | If proprietary, then cost of the software | Download links to the software | Hardware specifications | OS required |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| All | Apache Spark 2.0.0 | Free | NA | NA | http://spark.apache.org/downloads.html | X86 | UNIX or MacOSX |
+| 6 | Apache Kafka 0.9.0.0 | Free | NA | NA | http://www.sublimetext.com/3 | X86 | UNIX or MacOSX |
+
+
+## Detailed installation steps (software-wise)
+The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
+###1. Apache Spark:
+a. Download Spark version mentioned in the table<br>
+b. Build Spark from source or use the binary download and follow the detailed instructions given in the page http://spark.apache.org/docs/latest/building-spark.html<br>
+c. If building Spark from source, make sure that the R profile is also built and the instructions to do that is given in the link given inthe step b.<br>
+###2. Apache Kafka
+a. Download Kafka version mentioned in the table<br>
+b. The “quick start” section of the Kafka documentation gives the instructions to setup Kafka.
+http://kafka.apache.org/documentation.html#quickstart<br>
+c. Apart from the installation instructions, the topic creation and the other Kafka setup pre-requisites have been covered in detail in the chapter of the book<br>
 
 
 The code will look like the following:
